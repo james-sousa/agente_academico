@@ -1,0 +1,5 @@
+langchain>=1.0
+langchain-huggingface>=1.0
+langgraph>=1.0
+requests
+python-dotenv
